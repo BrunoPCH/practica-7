@@ -24,3 +24,5 @@ let ObjectoConstructor = {
 let firulais = perro("Firulais", 9);
 console.log(firulais);
 console.log(firulais.habla());
+
+//Aqui termina la clase
